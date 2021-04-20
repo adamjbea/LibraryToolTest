@@ -7,7 +7,7 @@ setup(
     description="ThunderBirdTools Test",
     author="Adam Bea",
     install_requires=[
-        'glob',
+        'glob2',
         'pandas',
         'numpy',
         'streamlit',
